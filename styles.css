@@ -1,10 +1,72 @@
+.styles__calendarContainer___1qTHz {
+  border-collapse: collapse;
+  font-family: Georgia, Times, serif;
+  padding: 15px;
+  float: left;
+  height: 355px;
+}
+
+.styles__monthName___3dLhu {
+  
+}
+
+.styles__headerRow___iZmKJ {
+  border: 1px solid #A8A8A8;
+  vertical-align: top;
+}
+
+.styles__headerCell___3mEkR {
+  height: 19px;
+  width: 19px;
+  padding: 10px;
+  border: 1px solid #A8A8A8;
+  vertical-align: top;
+  text-align: center;
+}
+
+.styles__bodyRow___1sF63 {
+  border: 1px solid #A8A8A8;
+  vertical-align: top;
+}
+
+.styles__bodyCell___3v1e9 {
+  height: 19px;
+  width: 19px;
+  padding: 10px;
+  border: 1px solid #A8A8A8;
+  vertical-align: top;
+  text-align: center;
+}
+
+.styles__invalidDay___1bHnF {
+  background-color: gray;
+}
+
+.styles__weekDay___3ZLSi {
+  background-color: green;
+}
+
+.styles__weekendDay___180V2 {
+  background-color: yellow;
+}
+
+.styles__holiday___2UxfZ {
+  background-color: orange;
+}
 .styles__app___1xE8N {
   -webkit-box-shadow: rgba(0, 0, 0, .156863) 0px 3px 10px, rgba(0, 0, 0, .227451) 0px 3px 10px;
           box-shadow: rgba(0, 0, 0, .156863) 0px 3px 10px, rgba(0, 0, 0, .227451) 0px 3px 10px;
   left: 25px;
-  height: 146px;
-  position: absolute;
+  height: 186px;
+  position: relative;
   top: 25px;
   width: 25%;
   padding: 10px;
+}
+
+.styles__calendarDiv___15m-s {
+  position: relative;
+  top: 30px;
+  border-collapse: collapse;
+  font-family: Georgia, Times, serif;
 }
